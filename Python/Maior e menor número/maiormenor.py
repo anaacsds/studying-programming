@@ -1,5 +1,5 @@
-# Um script simples em Python para identificar o maior e o menor número a partir de um valor fornecido pelo usuário.
-# Objetivo do Projeto: Aplicar meus conhecimentos em conceitos básicos de laços de repetição e condicionais em Python.
+# Código em Python para identificar o maior e o menor número a partir de um valor fornecido pelo usuário.
+
 
 print("Defina dois números para descobrir qual é o maior e qual é o menor valor dentre eles: ") # Declarando as variáveis dos números que serão informadas
 n1 = int(input("Primeiro número: ")) # Mensagem que aparece para o usuário e também pode escrever o número na frente. O programa converte o número para inteiro
