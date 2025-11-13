@@ -8,3 +8,23 @@ V1[9,15,33] V2[11,21,29,35]
 V3[...]
 */
 
+// Questão a
+int[] V1 = { 2, 31, 4, 55 }, V2 = new int[V1.Length];
+
+// 'j' deve ser declarado para guardar a posição do V2
+int j = 0; 
+
+for (int i = V1.Length - 1; i >= 0; i--)
+{
+    V2[j] = V1[i];
+    j++;
+}
+
+for (j = 0; j < V2.Length; j++)
+{
+    Console.Write(V2[j] + " "); 
+}
+
+// Questão b
+
+int[] V3 = new int[V1.Length + V2.Length];
