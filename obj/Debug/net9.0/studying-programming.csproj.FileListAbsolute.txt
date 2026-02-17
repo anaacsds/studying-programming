@@ -1,5 +1,0 @@
-C:\Users\Ana Clara\OneDrive\Meus Projetos\studying-programming\obj\Debug\net9.0\studying-programming.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Ana Clara\OneDrive\Meus Projetos\studying-programming\obj\Debug\net9.0\studying-programming.AssemblyInfoInputs.cache
-C:\Users\Ana Clara\OneDrive\Meus Projetos\studying-programming\obj\Debug\net9.0\studying-programming.AssemblyInfo.cs
-C:\Users\Ana Clara\OneDrive\Meus Projetos\studying-programming\obj\Debug\net9.0\studying-programming.csproj.CoreCompileInputs.cache
-C:\Users\Ana Clara\OneDrive\Meus Projetos\studying-programming\obj\Debug\net9.0\studying-programming.sourcelink.json
