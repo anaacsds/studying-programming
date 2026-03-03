@@ -1,0 +1,15 @@
+C:\Users\Ana Clara\OneDrive\Meus Projetos\studying-programming\C#\Funções e Procedimentos\Resultado séries 2\bin\Debug\net9.0\Resultado séries 2.exe
+C:\Users\Ana Clara\OneDrive\Meus Projetos\studying-programming\C#\Funções e Procedimentos\Resultado séries 2\bin\Debug\net9.0\Resultado séries 2.deps.json
+C:\Users\Ana Clara\OneDrive\Meus Projetos\studying-programming\C#\Funções e Procedimentos\Resultado séries 2\bin\Debug\net9.0\Resultado séries 2.runtimeconfig.json
+C:\Users\Ana Clara\OneDrive\Meus Projetos\studying-programming\C#\Funções e Procedimentos\Resultado séries 2\bin\Debug\net9.0\Resultado séries 2.dll
+C:\Users\Ana Clara\OneDrive\Meus Projetos\studying-programming\C#\Funções e Procedimentos\Resultado séries 2\bin\Debug\net9.0\Resultado séries 2.pdb
+C:\Users\Ana Clara\OneDrive\Meus Projetos\studying-programming\C#\Funções e Procedimentos\Resultado séries 2\obj\Debug\net9.0\Resultado séries 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ana Clara\OneDrive\Meus Projetos\studying-programming\C#\Funções e Procedimentos\Resultado séries 2\obj\Debug\net9.0\Resultado séries 2.AssemblyInfoInputs.cache
+C:\Users\Ana Clara\OneDrive\Meus Projetos\studying-programming\C#\Funções e Procedimentos\Resultado séries 2\obj\Debug\net9.0\Resultado séries 2.AssemblyInfo.cs
+C:\Users\Ana Clara\OneDrive\Meus Projetos\studying-programming\C#\Funções e Procedimentos\Resultado séries 2\obj\Debug\net9.0\Resultado séries 2.csproj.CoreCompileInputs.cache
+C:\Users\Ana Clara\OneDrive\Meus Projetos\studying-programming\C#\Funções e Procedimentos\Resultado séries 2\obj\Debug\net9.0\Resultado séries 2.sourcelink.json
+C:\Users\Ana Clara\OneDrive\Meus Projetos\studying-programming\C#\Funções e Procedimentos\Resultado séries 2\obj\Debug\net9.0\Resultado séries 2.dll
+C:\Users\Ana Clara\OneDrive\Meus Projetos\studying-programming\C#\Funções e Procedimentos\Resultado séries 2\obj\Debug\net9.0\refint\Resultado séries 2.dll
+C:\Users\Ana Clara\OneDrive\Meus Projetos\studying-programming\C#\Funções e Procedimentos\Resultado séries 2\obj\Debug\net9.0\Resultado séries 2.pdb
+C:\Users\Ana Clara\OneDrive\Meus Projetos\studying-programming\C#\Funções e Procedimentos\Resultado séries 2\obj\Debug\net9.0\Resultado séries 2.genruntimeconfig.cache
+C:\Users\Ana Clara\OneDrive\Meus Projetos\studying-programming\C#\Funções e Procedimentos\Resultado séries 2\obj\Debug\net9.0\ref\Resultado séries 2.dll
