@@ -1,5 +1,5 @@
 /*
-O c ́odigo do programa abaixo ser ́a utilizado nas Quest ̃oes 4 a 6. O programa lˆe as cinco notas de
+O codigo do programa abaixo ser ́a utilizado nas Quest ̃oes 4 a 6. O programa lˆe as cinco notas de
 um aluno e determina suas estat ́ısticas. Fa ̧ca o c ́odigo que falta, conforme o que cada quest ̃ao
 solicita. A estrutura geral do programa deve ser respeitada e n ̃ao pode ser alterada.
 */
