@@ -1,0 +1,15 @@
+C:\Users\Ana Clara\OneDrive\Meus Projetos\studying-programming\C#\Funções e Procedimentos\Série de Fibonacci\bin\Debug\net9.0\Série de Fibonacci.exe
+C:\Users\Ana Clara\OneDrive\Meus Projetos\studying-programming\C#\Funções e Procedimentos\Série de Fibonacci\bin\Debug\net9.0\Série de Fibonacci.deps.json
+C:\Users\Ana Clara\OneDrive\Meus Projetos\studying-programming\C#\Funções e Procedimentos\Série de Fibonacci\bin\Debug\net9.0\Série de Fibonacci.runtimeconfig.json
+C:\Users\Ana Clara\OneDrive\Meus Projetos\studying-programming\C#\Funções e Procedimentos\Série de Fibonacci\bin\Debug\net9.0\Série de Fibonacci.dll
+C:\Users\Ana Clara\OneDrive\Meus Projetos\studying-programming\C#\Funções e Procedimentos\Série de Fibonacci\bin\Debug\net9.0\Série de Fibonacci.pdb
+C:\Users\Ana Clara\OneDrive\Meus Projetos\studying-programming\C#\Funções e Procedimentos\Série de Fibonacci\obj\Debug\net9.0\Série de Fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ana Clara\OneDrive\Meus Projetos\studying-programming\C#\Funções e Procedimentos\Série de Fibonacci\obj\Debug\net9.0\Série de Fibonacci.AssemblyInfoInputs.cache
+C:\Users\Ana Clara\OneDrive\Meus Projetos\studying-programming\C#\Funções e Procedimentos\Série de Fibonacci\obj\Debug\net9.0\Série de Fibonacci.AssemblyInfo.cs
+C:\Users\Ana Clara\OneDrive\Meus Projetos\studying-programming\C#\Funções e Procedimentos\Série de Fibonacci\obj\Debug\net9.0\Série de Fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\Ana Clara\OneDrive\Meus Projetos\studying-programming\C#\Funções e Procedimentos\Série de Fibonacci\obj\Debug\net9.0\Série de Fibonacci.sourcelink.json
+C:\Users\Ana Clara\OneDrive\Meus Projetos\studying-programming\C#\Funções e Procedimentos\Série de Fibonacci\obj\Debug\net9.0\Série de Fibonacci.dll
+C:\Users\Ana Clara\OneDrive\Meus Projetos\studying-programming\C#\Funções e Procedimentos\Série de Fibonacci\obj\Debug\net9.0\refint\Série de Fibonacci.dll
+C:\Users\Ana Clara\OneDrive\Meus Projetos\studying-programming\C#\Funções e Procedimentos\Série de Fibonacci\obj\Debug\net9.0\Série de Fibonacci.pdb
+C:\Users\Ana Clara\OneDrive\Meus Projetos\studying-programming\C#\Funções e Procedimentos\Série de Fibonacci\obj\Debug\net9.0\Série de Fibonacci.genruntimeconfig.cache
+C:\Users\Ana Clara\OneDrive\Meus Projetos\studying-programming\C#\Funções e Procedimentos\Série de Fibonacci\obj\Debug\net9.0\ref\Série de Fibonacci.dll
