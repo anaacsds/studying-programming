@@ -1,0 +1,15 @@
+C:\Users\Ana Clara\OneDrive\Meus Projetos\studying-programming\C#\Funções e Procedimentos\Resultado séries\obj\Debug\net9.0\Resultado séries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ana Clara\OneDrive\Meus Projetos\studying-programming\C#\Funções e Procedimentos\Resultado séries\obj\Debug\net9.0\Resultado séries.AssemblyInfoInputs.cache
+C:\Users\Ana Clara\OneDrive\Meus Projetos\studying-programming\C#\Funções e Procedimentos\Resultado séries\obj\Debug\net9.0\Resultado séries.AssemblyInfo.cs
+C:\Users\Ana Clara\OneDrive\Meus Projetos\studying-programming\C#\Funções e Procedimentos\Resultado séries\obj\Debug\net9.0\Resultado séries.csproj.CoreCompileInputs.cache
+C:\Users\Ana Clara\OneDrive\Meus Projetos\studying-programming\C#\Funções e Procedimentos\Resultado séries\obj\Debug\net9.0\Resultado séries.sourcelink.json
+C:\Users\Ana Clara\OneDrive\Meus Projetos\studying-programming\C#\Funções e Procedimentos\Resultado séries\bin\Debug\net9.0\Resultado séries.exe
+C:\Users\Ana Clara\OneDrive\Meus Projetos\studying-programming\C#\Funções e Procedimentos\Resultado séries\bin\Debug\net9.0\Resultado séries.deps.json
+C:\Users\Ana Clara\OneDrive\Meus Projetos\studying-programming\C#\Funções e Procedimentos\Resultado séries\bin\Debug\net9.0\Resultado séries.runtimeconfig.json
+C:\Users\Ana Clara\OneDrive\Meus Projetos\studying-programming\C#\Funções e Procedimentos\Resultado séries\bin\Debug\net9.0\Resultado séries.dll
+C:\Users\Ana Clara\OneDrive\Meus Projetos\studying-programming\C#\Funções e Procedimentos\Resultado séries\bin\Debug\net9.0\Resultado séries.pdb
+C:\Users\Ana Clara\OneDrive\Meus Projetos\studying-programming\C#\Funções e Procedimentos\Resultado séries\obj\Debug\net9.0\Resultado séries.dll
+C:\Users\Ana Clara\OneDrive\Meus Projetos\studying-programming\C#\Funções e Procedimentos\Resultado séries\obj\Debug\net9.0\refint\Resultado séries.dll
+C:\Users\Ana Clara\OneDrive\Meus Projetos\studying-programming\C#\Funções e Procedimentos\Resultado séries\obj\Debug\net9.0\Resultado séries.pdb
+C:\Users\Ana Clara\OneDrive\Meus Projetos\studying-programming\C#\Funções e Procedimentos\Resultado séries\obj\Debug\net9.0\Resultado séries.genruntimeconfig.cache
+C:\Users\Ana Clara\OneDrive\Meus Projetos\studying-programming\C#\Funções e Procedimentos\Resultado séries\obj\Debug\net9.0\ref\Resultado séries.dll
