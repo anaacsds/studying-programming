@@ -8,7 +8,7 @@ Referência ao material original: https://www.google.com/search?gs_ssp=eJzj4tVP1
 
 Exercícios:
 
-* [Pesquisa binária](/exercicios/ex1.0/)
+* [Pesquisa binária](/exercicios/ex1.0/ex.py)
 * [](exercícios/)
 
 
