@@ -8,7 +8,7 @@ Referência ao material original: https://www.google.com/search?gs_ssp=eJzj4tVP1
 
 Exercícios:
 
-* [Significado de cada linha da estrutura básica de HTML, título, parágrafos e &lt;hr&gt;](/exercicios/ex1.0/)
+* [Pesquisa binária](/exercicios/ex1.0/)
 * [](exercícios/)
 
 
