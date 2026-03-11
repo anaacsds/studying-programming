@@ -1,0 +1,15 @@
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Laços de repetição\soma ate n\bin\Debug\net9.0\soma ate n.exe
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Laços de repetição\soma ate n\bin\Debug\net9.0\soma ate n.deps.json
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Laços de repetição\soma ate n\bin\Debug\net9.0\soma ate n.runtimeconfig.json
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Laços de repetição\soma ate n\bin\Debug\net9.0\soma ate n.dll
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Laços de repetição\soma ate n\bin\Debug\net9.0\soma ate n.pdb
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Laços de repetição\soma ate n\obj\Debug\net9.0\soma ate n.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Laços de repetição\soma ate n\obj\Debug\net9.0\soma ate n.AssemblyInfoInputs.cache
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Laços de repetição\soma ate n\obj\Debug\net9.0\soma ate n.AssemblyInfo.cs
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Laços de repetição\soma ate n\obj\Debug\net9.0\soma ate n.csproj.CoreCompileInputs.cache
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Laços de repetição\soma ate n\obj\Debug\net9.0\soma ate n.sourcelink.json
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Laços de repetição\soma ate n\obj\Debug\net9.0\soma ate n.dll
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Laços de repetição\soma ate n\obj\Debug\net9.0\refint\soma ate n.dll
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Laços de repetição\soma ate n\obj\Debug\net9.0\soma ate n.pdb
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Laços de repetição\soma ate n\obj\Debug\net9.0\soma ate n.genruntimeconfig.cache
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Laços de repetição\soma ate n\obj\Debug\net9.0\ref\soma ate n.dll
