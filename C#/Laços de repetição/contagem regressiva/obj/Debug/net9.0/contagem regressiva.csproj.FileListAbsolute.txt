@@ -1,0 +1,15 @@
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Laços de repetição\contagem regressiva\obj\Debug\net9.0\contagem regressiva.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Laços de repetição\contagem regressiva\obj\Debug\net9.0\contagem regressiva.AssemblyInfoInputs.cache
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Laços de repetição\contagem regressiva\obj\Debug\net9.0\contagem regressiva.AssemblyInfo.cs
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Laços de repetição\contagem regressiva\obj\Debug\net9.0\contagem regressiva.csproj.CoreCompileInputs.cache
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Laços de repetição\contagem regressiva\obj\Debug\net9.0\contagem regressiva.sourcelink.json
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Laços de repetição\contagem regressiva\bin\Debug\net9.0\contagem regressiva.exe
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Laços de repetição\contagem regressiva\bin\Debug\net9.0\contagem regressiva.deps.json
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Laços de repetição\contagem regressiva\bin\Debug\net9.0\contagem regressiva.runtimeconfig.json
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Laços de repetição\contagem regressiva\bin\Debug\net9.0\contagem regressiva.dll
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Laços de repetição\contagem regressiva\bin\Debug\net9.0\contagem regressiva.pdb
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Laços de repetição\contagem regressiva\obj\Debug\net9.0\contagem regressiva.dll
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Laços de repetição\contagem regressiva\obj\Debug\net9.0\refint\contagem regressiva.dll
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Laços de repetição\contagem regressiva\obj\Debug\net9.0\contagem regressiva.pdb
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Laços de repetição\contagem regressiva\obj\Debug\net9.0\contagem regressiva.genruntimeconfig.cache
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Laços de repetição\contagem regressiva\obj\Debug\net9.0\ref\contagem regressiva.dll
