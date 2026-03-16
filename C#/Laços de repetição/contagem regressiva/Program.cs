@@ -11,17 +11,28 @@ class Program
         Console.WriteLine("Informe um número inteiro positivo: ");
         n = int.Parse(Console.ReadLine());
 
-        int[] cont = contagem(n);
+        int[] contp = contagemp(n);
 
-        Console.Write($"Contagem regressiva de {n} até 0 (apenas números pares): ");
-        for(int i = 0; i < cont.Length; i++)
+        Console.WriteLine($"Contagem regressiva de {n} até 0 (apenas números pares): ");
+        for(int i = 0; i < contp.Length; i++)
         {
-            Console.Write($"{cont[i]} , ");
+            Console.Write($"{contp[i]} , ");
+            
+        }
+
+        Console.WriteLine(" ");
+
+        int[] conti = contagemi(n);
+
+        Console.Write($"Contagem regressiva de {n} até 0 (apenas números ímpares): ");
+        for(int i = 0; i < conti.Length; i++)
+        {
+            Console.WriteLine($"{conti[i]} , ");
             
         }
     }
 
-    static int[] contagem(int n)
+    static int[] contagemp(int n)
     {
         int tamanho = (n / 2) + 1;
         int[] r = new int[tamanho];
@@ -30,6 +41,22 @@ class Program
         for (int i = n; i >= 0; i--)
         {
             if (i % 2 == 0)
+            {
+                r[pos] = i;
+                pos++;          
+            }
+        }
+        return r;
+    }
+        static int[] contagemi(int n)
+    {
+        int tamanho = (n / 2) + 1;
+        int[] r = new int[tamanho];
+        int pos = 0;
+
+        for (int i = n; i >= 0; i--)
+        {
+            if (i % 2 != 0)
             {
                 r[pos] = i;
                 pos++;          
