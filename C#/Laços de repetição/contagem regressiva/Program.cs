@@ -13,7 +13,7 @@ class Program
 
         int[] contp = contagemp(n);
 
-        Console.WriteLine($"Contagem regressiva de {n} até 0 (apenas números pares): ");
+        Console.Write($"Contagem regressiva de {n} até 0 (apenas números pares): ");
         for(int i = 0; i < contp.Length; i++)
         {
             Console.Write($"{contp[i]} , ");
@@ -27,7 +27,7 @@ class Program
         Console.Write($"Contagem regressiva de {n} até 0 (apenas números ímpares): ");
         for(int i = 0; i < conti.Length; i++)
         {
-            Console.WriteLine($"{conti[i]} , ");
+            Console.Write($"{conti[i]} , ");
             
         }
     }
