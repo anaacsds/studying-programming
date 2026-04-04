@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("identificando-chá")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e34c6abf7e277ed1ebf8290f4b91ac4a8fec21cf")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+edd26b9dbae19f82f971accdbb83b549195d53fa")]
 [assembly: System.Reflection.AssemblyProductAttribute("identificando-chá")]
 [assembly: System.Reflection.AssemblyTitleAttribute("identificando-chá")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
