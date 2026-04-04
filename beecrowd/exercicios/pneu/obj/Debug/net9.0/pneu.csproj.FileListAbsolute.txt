@@ -1,0 +1,15 @@
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\beecrowd\exercicios\pneu\bin\Debug\net9.0\pneu.exe
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\beecrowd\exercicios\pneu\bin\Debug\net9.0\pneu.deps.json
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\beecrowd\exercicios\pneu\bin\Debug\net9.0\pneu.runtimeconfig.json
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\beecrowd\exercicios\pneu\bin\Debug\net9.0\pneu.dll
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\beecrowd\exercicios\pneu\bin\Debug\net9.0\pneu.pdb
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\beecrowd\exercicios\pneu\obj\Debug\net9.0\pneu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\beecrowd\exercicios\pneu\obj\Debug\net9.0\pneu.AssemblyInfoInputs.cache
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\beecrowd\exercicios\pneu\obj\Debug\net9.0\pneu.AssemblyInfo.cs
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\beecrowd\exercicios\pneu\obj\Debug\net9.0\pneu.csproj.CoreCompileInputs.cache
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\beecrowd\exercicios\pneu\obj\Debug\net9.0\pneu.sourcelink.json
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\beecrowd\exercicios\pneu\obj\Debug\net9.0\pneu.dll
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\beecrowd\exercicios\pneu\obj\Debug\net9.0\refint\pneu.dll
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\beecrowd\exercicios\pneu\obj\Debug\net9.0\pneu.pdb
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\beecrowd\exercicios\pneu\obj\Debug\net9.0\pneu.genruntimeconfig.cache
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\beecrowd\exercicios\pneu\obj\Debug\net9.0\ref\pneu.dll
