@@ -1,0 +1,15 @@
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\beecrowd\exercicios\busca-na-internet\bin\Debug\net9.0\busca-na-internet.exe
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\beecrowd\exercicios\busca-na-internet\bin\Debug\net9.0\busca-na-internet.deps.json
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\beecrowd\exercicios\busca-na-internet\bin\Debug\net9.0\busca-na-internet.runtimeconfig.json
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\beecrowd\exercicios\busca-na-internet\bin\Debug\net9.0\busca-na-internet.dll
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\beecrowd\exercicios\busca-na-internet\bin\Debug\net9.0\busca-na-internet.pdb
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\beecrowd\exercicios\busca-na-internet\obj\Debug\net9.0\busca-na-internet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\beecrowd\exercicios\busca-na-internet\obj\Debug\net9.0\busca-na-internet.AssemblyInfoInputs.cache
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\beecrowd\exercicios\busca-na-internet\obj\Debug\net9.0\busca-na-internet.AssemblyInfo.cs
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\beecrowd\exercicios\busca-na-internet\obj\Debug\net9.0\busca-na-internet.csproj.CoreCompileInputs.cache
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\beecrowd\exercicios\busca-na-internet\obj\Debug\net9.0\busca-na-internet.sourcelink.json
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\beecrowd\exercicios\busca-na-internet\obj\Debug\net9.0\busca-na-internet.dll
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\beecrowd\exercicios\busca-na-internet\obj\Debug\net9.0\refint\busca-na-internet.dll
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\beecrowd\exercicios\busca-na-internet\obj\Debug\net9.0\busca-na-internet.pdb
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\beecrowd\exercicios\busca-na-internet\obj\Debug\net9.0\busca-na-internet.genruntimeconfig.cache
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\beecrowd\exercicios\busca-na-internet\obj\Debug\net9.0\ref\busca-na-internet.dll
