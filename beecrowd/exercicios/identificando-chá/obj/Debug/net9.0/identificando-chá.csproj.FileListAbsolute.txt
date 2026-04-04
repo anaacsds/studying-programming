@@ -1,0 +1,15 @@
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\beecrowd\exercicios\identificando-chá\bin\Debug\net9.0\identificando-chá.exe
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\beecrowd\exercicios\identificando-chá\bin\Debug\net9.0\identificando-chá.deps.json
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\beecrowd\exercicios\identificando-chá\bin\Debug\net9.0\identificando-chá.runtimeconfig.json
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\beecrowd\exercicios\identificando-chá\bin\Debug\net9.0\identificando-chá.dll
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\beecrowd\exercicios\identificando-chá\bin\Debug\net9.0\identificando-chá.pdb
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\beecrowd\exercicios\identificando-chá\obj\Debug\net9.0\identificando-chá.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\beecrowd\exercicios\identificando-chá\obj\Debug\net9.0\identificando-chá.AssemblyInfoInputs.cache
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\beecrowd\exercicios\identificando-chá\obj\Debug\net9.0\identificando-chá.AssemblyInfo.cs
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\beecrowd\exercicios\identificando-chá\obj\Debug\net9.0\identificando-chá.csproj.CoreCompileInputs.cache
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\beecrowd\exercicios\identificando-chá\obj\Debug\net9.0\identificando-chá.sourcelink.json
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\beecrowd\exercicios\identificando-chá\obj\Debug\net9.0\identificando-chá.dll
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\beecrowd\exercicios\identificando-chá\obj\Debug\net9.0\refint\identificando-chá.dll
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\beecrowd\exercicios\identificando-chá\obj\Debug\net9.0\identificando-chá.pdb
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\beecrowd\exercicios\identificando-chá\obj\Debug\net9.0\identificando-chá.genruntimeconfig.cache
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\beecrowd\exercicios\identificando-chá\obj\Debug\net9.0\ref\identificando-chá.dll
