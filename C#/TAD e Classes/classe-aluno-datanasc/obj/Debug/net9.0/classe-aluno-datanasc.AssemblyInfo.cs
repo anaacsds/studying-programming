@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("pneu")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("classe-aluno-datanasc")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+72e9f6629accca13c477c4ed0b760a33c8d116b7")]
-[assembly: System.Reflection.AssemblyProductAttribute("pneu")]
-[assembly: System.Reflection.AssemblyTitleAttribute("pneu")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7900bca3ec3230f49e9bcd78566df45cf69a8e7c")]
+[assembly: System.Reflection.AssemblyProductAttribute("classe-aluno-datanasc")]
+[assembly: System.Reflection.AssemblyTitleAttribute("classe-aluno-datanasc")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.

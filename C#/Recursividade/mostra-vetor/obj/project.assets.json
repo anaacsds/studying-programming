@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ana Clara\\OneDrive\\MeusProjetos\\studying-programming\\C#\\Recursividade\\soma-numeros-do-vetor\\Recursividade.csproj",
-      "projectName": "Recursividade",
-      "projectPath": "C:\\Users\\Ana Clara\\OneDrive\\MeusProjetos\\studying-programming\\C#\\Recursividade\\soma-numeros-do-vetor\\Recursividade.csproj",
+      "projectUniqueName": "C:\\Users\\Ana Clara\\OneDrive\\MeusProjetos\\studying-programming\\C#\\Recursividade\\soma-vetor-aleatorio\\soma-vetor-aleatorio.csproj",
+      "projectName": "soma-vetor-aleatorio",
+      "projectPath": "C:\\Users\\Ana Clara\\OneDrive\\MeusProjetos\\studying-programming\\C#\\Recursividade\\soma-vetor-aleatorio\\soma-vetor-aleatorio.csproj",
       "packagesPath": "C:\\Users\\Ana Clara\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ana Clara\\OneDrive\\MeusProjetos\\studying-programming\\C#\\Recursividade\\soma-numeros-do-vetor\\obj\\",
+      "outputPath": "C:\\Users\\Ana Clara\\OneDrive\\MeusProjetos\\studying-programming\\C#\\Recursividade\\soma-vetor-aleatorio\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ana Clara\\AppData\\Roaming\\NuGet\\NuGet.Config"
