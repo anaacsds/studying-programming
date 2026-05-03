@@ -1,0 +1,15 @@
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Vetores\vetor-5-nomes\bin\Debug\net9.0\vetor-5-nomes.exe
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Vetores\vetor-5-nomes\bin\Debug\net9.0\vetor-5-nomes.deps.json
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Vetores\vetor-5-nomes\bin\Debug\net9.0\vetor-5-nomes.runtimeconfig.json
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Vetores\vetor-5-nomes\bin\Debug\net9.0\vetor-5-nomes.dll
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Vetores\vetor-5-nomes\bin\Debug\net9.0\vetor-5-nomes.pdb
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Vetores\vetor-5-nomes\obj\Debug\net9.0\vetor-5-nomes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Vetores\vetor-5-nomes\obj\Debug\net9.0\vetor-5-nomes.AssemblyInfoInputs.cache
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Vetores\vetor-5-nomes\obj\Debug\net9.0\vetor-5-nomes.AssemblyInfo.cs
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Vetores\vetor-5-nomes\obj\Debug\net9.0\vetor-5-nomes.csproj.CoreCompileInputs.cache
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Vetores\vetor-5-nomes\obj\Debug\net9.0\vetor-5-nomes.sourcelink.json
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Vetores\vetor-5-nomes\obj\Debug\net9.0\vetor-5-nomes.dll
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Vetores\vetor-5-nomes\obj\Debug\net9.0\refint\vetor-5-nomes.dll
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Vetores\vetor-5-nomes\obj\Debug\net9.0\vetor-5-nomes.pdb
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Vetores\vetor-5-nomes\obj\Debug\net9.0\vetor-5-nomes.genruntimeconfig.cache
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Vetores\vetor-5-nomes\obj\Debug\net9.0\ref\vetor-5-nomes.dll
