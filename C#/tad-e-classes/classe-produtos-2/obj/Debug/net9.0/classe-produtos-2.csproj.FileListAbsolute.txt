@@ -1,0 +1,15 @@
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\classe-produtos-2\obj\Debug\net9.0\classe-produtos-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\classe-produtos-2\obj\Debug\net9.0\classe-produtos-2.AssemblyInfoInputs.cache
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\classe-produtos-2\obj\Debug\net9.0\classe-produtos-2.AssemblyInfo.cs
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\classe-produtos-2\obj\Debug\net9.0\classe-produtos-2.csproj.CoreCompileInputs.cache
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\classe-produtos-2\obj\Debug\net9.0\classe-produtos-2.sourcelink.json
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\classe-produtos-2\bin\Debug\net9.0\classe-produtos-2.exe
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\classe-produtos-2\bin\Debug\net9.0\classe-produtos-2.deps.json
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\classe-produtos-2\bin\Debug\net9.0\classe-produtos-2.runtimeconfig.json
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\classe-produtos-2\bin\Debug\net9.0\classe-produtos-2.dll
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\classe-produtos-2\bin\Debug\net9.0\classe-produtos-2.pdb
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\classe-produtos-2\obj\Debug\net9.0\classe-produtos-2.dll
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\classe-produtos-2\obj\Debug\net9.0\refint\classe-produtos-2.dll
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\classe-produtos-2\obj\Debug\net9.0\classe-produtos-2.pdb
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\classe-produtos-2\obj\Debug\net9.0\classe-produtos-2.genruntimeconfig.cache
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\classe-produtos-2\obj\Debug\net9.0\ref\classe-produtos-2.dll
