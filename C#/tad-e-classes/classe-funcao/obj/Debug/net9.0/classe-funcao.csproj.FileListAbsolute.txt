@@ -1,0 +1,15 @@
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\classe-funcao\obj\Debug\net9.0\classe-funcao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\classe-funcao\obj\Debug\net9.0\classe-funcao.AssemblyInfoInputs.cache
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\classe-funcao\obj\Debug\net9.0\classe-funcao.AssemblyInfo.cs
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\classe-funcao\obj\Debug\net9.0\classe-funcao.csproj.CoreCompileInputs.cache
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\classe-funcao\obj\Debug\net9.0\classe-funcao.sourcelink.json
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\classe-funcao\bin\Debug\net9.0\classe-funcao.exe
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\classe-funcao\bin\Debug\net9.0\classe-funcao.deps.json
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\classe-funcao\bin\Debug\net9.0\classe-funcao.runtimeconfig.json
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\classe-funcao\bin\Debug\net9.0\classe-funcao.dll
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\classe-funcao\bin\Debug\net9.0\classe-funcao.pdb
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\classe-funcao\obj\Debug\net9.0\classe-funcao.dll
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\classe-funcao\obj\Debug\net9.0\refint\classe-funcao.dll
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\classe-funcao\obj\Debug\net9.0\classe-funcao.pdb
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\classe-funcao\obj\Debug\net9.0\classe-funcao.genruntimeconfig.cache
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\classe-funcao\obj\Debug\net9.0\ref\classe-funcao.dll
