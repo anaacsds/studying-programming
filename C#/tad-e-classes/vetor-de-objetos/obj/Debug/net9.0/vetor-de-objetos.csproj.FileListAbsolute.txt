@@ -1,0 +1,15 @@
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\vetor-de-objetos\obj\Debug\net9.0\vetor-de-objetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\vetor-de-objetos\obj\Debug\net9.0\vetor-de-objetos.AssemblyInfoInputs.cache
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\vetor-de-objetos\obj\Debug\net9.0\vetor-de-objetos.AssemblyInfo.cs
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\vetor-de-objetos\obj\Debug\net9.0\vetor-de-objetos.csproj.CoreCompileInputs.cache
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\vetor-de-objetos\obj\Debug\net9.0\vetor-de-objetos.sourcelink.json
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\vetor-de-objetos\bin\Debug\net9.0\vetor-de-objetos.exe
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\vetor-de-objetos\bin\Debug\net9.0\vetor-de-objetos.deps.json
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\vetor-de-objetos\bin\Debug\net9.0\vetor-de-objetos.runtimeconfig.json
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\vetor-de-objetos\bin\Debug\net9.0\vetor-de-objetos.dll
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\vetor-de-objetos\bin\Debug\net9.0\vetor-de-objetos.pdb
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\vetor-de-objetos\obj\Debug\net9.0\vetor-de-objetos.dll
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\vetor-de-objetos\obj\Debug\net9.0\refint\vetor-de-objetos.dll
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\vetor-de-objetos\obj\Debug\net9.0\vetor-de-objetos.pdb
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\vetor-de-objetos\obj\Debug\net9.0\vetor-de-objetos.genruntimeconfig.cache
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\vetor-de-objetos\obj\Debug\net9.0\ref\vetor-de-objetos.dll
