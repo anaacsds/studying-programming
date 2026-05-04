@@ -1,0 +1,15 @@
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Recursividade\soma-numeros-do-vetor-2\obj\Debug\net9.0\soma-numeros-do-vetor-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Recursividade\soma-numeros-do-vetor-2\obj\Debug\net9.0\soma-numeros-do-vetor-2.AssemblyInfoInputs.cache
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Recursividade\soma-numeros-do-vetor-2\obj\Debug\net9.0\soma-numeros-do-vetor-2.AssemblyInfo.cs
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Recursividade\soma-numeros-do-vetor-2\obj\Debug\net9.0\soma-numeros-do-vetor-2.csproj.CoreCompileInputs.cache
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Recursividade\soma-numeros-do-vetor-2\obj\Debug\net9.0\soma-numeros-do-vetor-2.sourcelink.json
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Recursividade\soma-numeros-do-vetor-2\bin\Debug\net9.0\soma-numeros-do-vetor-2.exe
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Recursividade\soma-numeros-do-vetor-2\bin\Debug\net9.0\soma-numeros-do-vetor-2.deps.json
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Recursividade\soma-numeros-do-vetor-2\bin\Debug\net9.0\soma-numeros-do-vetor-2.runtimeconfig.json
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Recursividade\soma-numeros-do-vetor-2\bin\Debug\net9.0\soma-numeros-do-vetor-2.dll
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Recursividade\soma-numeros-do-vetor-2\bin\Debug\net9.0\soma-numeros-do-vetor-2.pdb
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Recursividade\soma-numeros-do-vetor-2\obj\Debug\net9.0\soma-numeros-do-vetor-2.dll
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Recursividade\soma-numeros-do-vetor-2\obj\Debug\net9.0\refint\soma-numeros-do-vetor-2.dll
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Recursividade\soma-numeros-do-vetor-2\obj\Debug\net9.0\soma-numeros-do-vetor-2.pdb
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Recursividade\soma-numeros-do-vetor-2\obj\Debug\net9.0\soma-numeros-do-vetor-2.genruntimeconfig.cache
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Recursividade\soma-numeros-do-vetor-2\obj\Debug\net9.0\ref\soma-numeros-do-vetor-2.dll
