@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "classes-relacionadas-aluno-turma/1.0.0": {
+        "runtime": {
+          "classes-relacionadas-aluno-turma.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "classes-relacionadas-aluno-turma/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

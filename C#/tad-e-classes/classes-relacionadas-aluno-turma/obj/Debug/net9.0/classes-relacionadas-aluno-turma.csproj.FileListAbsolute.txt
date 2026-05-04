@@ -1,0 +1,15 @@
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\classes-relacionadas-aluno-turma\obj\Debug\net9.0\classes-relacionadas-aluno-turma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\classes-relacionadas-aluno-turma\obj\Debug\net9.0\classes-relacionadas-aluno-turma.AssemblyInfoInputs.cache
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\classes-relacionadas-aluno-turma\obj\Debug\net9.0\classes-relacionadas-aluno-turma.AssemblyInfo.cs
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\classes-relacionadas-aluno-turma\obj\Debug\net9.0\classes-relacionadas-aluno-turma.csproj.CoreCompileInputs.cache
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\classes-relacionadas-aluno-turma\obj\Debug\net9.0\classes-relacionadas-aluno-turma.sourcelink.json
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\classes-relacionadas-aluno-turma\bin\Debug\net9.0\classes-relacionadas-aluno-turma.exe
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\classes-relacionadas-aluno-turma\bin\Debug\net9.0\classes-relacionadas-aluno-turma.deps.json
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\classes-relacionadas-aluno-turma\bin\Debug\net9.0\classes-relacionadas-aluno-turma.runtimeconfig.json
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\classes-relacionadas-aluno-turma\bin\Debug\net9.0\classes-relacionadas-aluno-turma.dll
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\classes-relacionadas-aluno-turma\bin\Debug\net9.0\classes-relacionadas-aluno-turma.pdb
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\classes-relacionadas-aluno-turma\obj\Debug\net9.0\classes-relacionadas-aluno-turma.dll
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\classes-relacionadas-aluno-turma\obj\Debug\net9.0\refint\classes-relacionadas-aluno-turma.dll
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\classes-relacionadas-aluno-turma\obj\Debug\net9.0\classes-relacionadas-aluno-turma.pdb
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\classes-relacionadas-aluno-turma\obj\Debug\net9.0\classes-relacionadas-aluno-turma.genruntimeconfig.cache
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\classes-relacionadas-aluno-turma\obj\Debug\net9.0\ref\classes-relacionadas-aluno-turma.dll
