@@ -1,0 +1,15 @@
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\classes-relacionadas\bin\Debug\net9.0\classes-relacionadas.exe
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\classes-relacionadas\bin\Debug\net9.0\classes-relacionadas.deps.json
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\classes-relacionadas\bin\Debug\net9.0\classes-relacionadas.runtimeconfig.json
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\classes-relacionadas\bin\Debug\net9.0\classes-relacionadas.dll
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\classes-relacionadas\bin\Debug\net9.0\classes-relacionadas.pdb
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\classes-relacionadas\obj\Debug\net9.0\classes-relacionadas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\classes-relacionadas\obj\Debug\net9.0\classes-relacionadas.AssemblyInfoInputs.cache
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\classes-relacionadas\obj\Debug\net9.0\classes-relacionadas.AssemblyInfo.cs
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\classes-relacionadas\obj\Debug\net9.0\classes-relacionadas.csproj.CoreCompileInputs.cache
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\classes-relacionadas\obj\Debug\net9.0\classes-relacionadas.sourcelink.json
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\classes-relacionadas\obj\Debug\net9.0\classes-relacionadas.dll
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\classes-relacionadas\obj\Debug\net9.0\refint\classes-relacionadas.dll
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\classes-relacionadas\obj\Debug\net9.0\classes-relacionadas.pdb
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\classes-relacionadas\obj\Debug\net9.0\classes-relacionadas.genruntimeconfig.cache
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\classes-relacionadas\obj\Debug\net9.0\ref\classes-relacionadas.dll
