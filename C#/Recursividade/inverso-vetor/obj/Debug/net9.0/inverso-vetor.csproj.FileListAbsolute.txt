@@ -1,0 +1,15 @@
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Recursividade\inverso-vetor\obj\Debug\net9.0\inverso-vetor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Recursividade\inverso-vetor\obj\Debug\net9.0\inverso-vetor.AssemblyInfoInputs.cache
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Recursividade\inverso-vetor\obj\Debug\net9.0\inverso-vetor.AssemblyInfo.cs
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Recursividade\inverso-vetor\obj\Debug\net9.0\inverso-vetor.csproj.CoreCompileInputs.cache
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Recursividade\inverso-vetor\obj\Debug\net9.0\inverso-vetor.sourcelink.json
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Recursividade\inverso-vetor\bin\Debug\net9.0\inverso-vetor.exe
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Recursividade\inverso-vetor\bin\Debug\net9.0\inverso-vetor.deps.json
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Recursividade\inverso-vetor\bin\Debug\net9.0\inverso-vetor.runtimeconfig.json
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Recursividade\inverso-vetor\bin\Debug\net9.0\inverso-vetor.dll
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Recursividade\inverso-vetor\bin\Debug\net9.0\inverso-vetor.pdb
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Recursividade\inverso-vetor\obj\Debug\net9.0\inverso-vetor.dll
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Recursividade\inverso-vetor\obj\Debug\net9.0\refint\inverso-vetor.dll
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Recursividade\inverso-vetor\obj\Debug\net9.0\inverso-vetor.pdb
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Recursividade\inverso-vetor\obj\Debug\net9.0\inverso-vetor.genruntimeconfig.cache
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Recursividade\inverso-vetor\obj\Debug\net9.0\ref\inverso-vetor.dll
