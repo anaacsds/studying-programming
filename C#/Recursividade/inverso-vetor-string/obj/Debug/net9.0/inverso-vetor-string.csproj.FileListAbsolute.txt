@@ -1,0 +1,15 @@
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Recursividade\inverso-vetor-string\bin\Debug\net9.0\inverso-vetor-string.exe
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Recursividade\inverso-vetor-string\bin\Debug\net9.0\inverso-vetor-string.deps.json
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Recursividade\inverso-vetor-string\bin\Debug\net9.0\inverso-vetor-string.runtimeconfig.json
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Recursividade\inverso-vetor-string\bin\Debug\net9.0\inverso-vetor-string.dll
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Recursividade\inverso-vetor-string\bin\Debug\net9.0\inverso-vetor-string.pdb
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Recursividade\inverso-vetor-string\obj\Debug\net9.0\inverso-vetor-string.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Recursividade\inverso-vetor-string\obj\Debug\net9.0\inverso-vetor-string.AssemblyInfoInputs.cache
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Recursividade\inverso-vetor-string\obj\Debug\net9.0\inverso-vetor-string.AssemblyInfo.cs
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Recursividade\inverso-vetor-string\obj\Debug\net9.0\inverso-vetor-string.csproj.CoreCompileInputs.cache
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Recursividade\inverso-vetor-string\obj\Debug\net9.0\inverso-vetor-string.sourcelink.json
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Recursividade\inverso-vetor-string\obj\Debug\net9.0\inverso-vetor-string.dll
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Recursividade\inverso-vetor-string\obj\Debug\net9.0\refint\inverso-vetor-string.dll
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Recursividade\inverso-vetor-string\obj\Debug\net9.0\inverso-vetor-string.pdb
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Recursividade\inverso-vetor-string\obj\Debug\net9.0\inverso-vetor-string.genruntimeconfig.cache
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Recursividade\inverso-vetor-string\obj\Debug\net9.0\ref\inverso-vetor-string.dll
