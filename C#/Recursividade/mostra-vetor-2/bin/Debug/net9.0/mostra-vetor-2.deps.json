@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "mostra-vetor-2/1.0.0": {
+        "runtime": {
+          "mostra-vetor-2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "mostra-vetor-2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
