@@ -1,0 +1,15 @@
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Recursividade\potencia\obj\Debug\net9.0\potencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Recursividade\potencia\obj\Debug\net9.0\potencia.AssemblyInfoInputs.cache
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Recursividade\potencia\obj\Debug\net9.0\potencia.AssemblyInfo.cs
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Recursividade\potencia\obj\Debug\net9.0\potencia.csproj.CoreCompileInputs.cache
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Recursividade\potencia\obj\Debug\net9.0\potencia.sourcelink.json
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Recursividade\potencia\bin\Debug\net9.0\potencia.exe
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Recursividade\potencia\bin\Debug\net9.0\potencia.deps.json
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Recursividade\potencia\bin\Debug\net9.0\potencia.runtimeconfig.json
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Recursividade\potencia\bin\Debug\net9.0\potencia.dll
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Recursividade\potencia\bin\Debug\net9.0\potencia.pdb
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Recursividade\potencia\obj\Debug\net9.0\potencia.dll
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Recursividade\potencia\obj\Debug\net9.0\refint\potencia.dll
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Recursividade\potencia\obj\Debug\net9.0\potencia.pdb
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Recursividade\potencia\obj\Debug\net9.0\potencia.genruntimeconfig.cache
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Recursividade\potencia\obj\Debug\net9.0\ref\potencia.dll
