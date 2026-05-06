@@ -1,0 +1,15 @@
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\vetor-aluno-e-funcao\bin\Debug\net9.0\vetor-aluno-e-funcao.exe
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\vetor-aluno-e-funcao\bin\Debug\net9.0\vetor-aluno-e-funcao.deps.json
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\vetor-aluno-e-funcao\bin\Debug\net9.0\vetor-aluno-e-funcao.runtimeconfig.json
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\vetor-aluno-e-funcao\bin\Debug\net9.0\vetor-aluno-e-funcao.dll
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\vetor-aluno-e-funcao\bin\Debug\net9.0\vetor-aluno-e-funcao.pdb
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\vetor-aluno-e-funcao\obj\Debug\net9.0\vetor-aluno-e-funcao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\vetor-aluno-e-funcao\obj\Debug\net9.0\vetor-aluno-e-funcao.AssemblyInfoInputs.cache
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\vetor-aluno-e-funcao\obj\Debug\net9.0\vetor-aluno-e-funcao.AssemblyInfo.cs
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\vetor-aluno-e-funcao\obj\Debug\net9.0\vetor-aluno-e-funcao.csproj.CoreCompileInputs.cache
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\vetor-aluno-e-funcao\obj\Debug\net9.0\vetor-aluno-e-funcao.sourcelink.json
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\vetor-aluno-e-funcao\obj\Debug\net9.0\vetor-aluno-e-funcao.dll
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\vetor-aluno-e-funcao\obj\Debug\net9.0\refint\vetor-aluno-e-funcao.dll
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\vetor-aluno-e-funcao\obj\Debug\net9.0\vetor-aluno-e-funcao.pdb
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\vetor-aluno-e-funcao\obj\Debug\net9.0\vetor-aluno-e-funcao.genruntimeconfig.cache
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\vetor-aluno-e-funcao\obj\Debug\net9.0\ref\vetor-aluno-e-funcao.dll
