@@ -1,0 +1,15 @@
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Recursividade\num-em-vetor\obj\Debug\net9.0\num-em-vetor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Recursividade\num-em-vetor\obj\Debug\net9.0\num-em-vetor.AssemblyInfoInputs.cache
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Recursividade\num-em-vetor\obj\Debug\net9.0\num-em-vetor.AssemblyInfo.cs
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Recursividade\num-em-vetor\obj\Debug\net9.0\num-em-vetor.csproj.CoreCompileInputs.cache
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Recursividade\num-em-vetor\obj\Debug\net9.0\num-em-vetor.sourcelink.json
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Recursividade\num-em-vetor\bin\Debug\net9.0\num-em-vetor.exe
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Recursividade\num-em-vetor\bin\Debug\net9.0\num-em-vetor.deps.json
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Recursividade\num-em-vetor\bin\Debug\net9.0\num-em-vetor.runtimeconfig.json
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Recursividade\num-em-vetor\bin\Debug\net9.0\num-em-vetor.dll
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Recursividade\num-em-vetor\bin\Debug\net9.0\num-em-vetor.pdb
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Recursividade\num-em-vetor\obj\Debug\net9.0\num-em-vetor.dll
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Recursividade\num-em-vetor\obj\Debug\net9.0\refint\num-em-vetor.dll
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Recursividade\num-em-vetor\obj\Debug\net9.0\num-em-vetor.pdb
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Recursividade\num-em-vetor\obj\Debug\net9.0\num-em-vetor.genruntimeconfig.cache
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Recursividade\num-em-vetor\obj\Debug\net9.0\ref\num-em-vetor.dll
