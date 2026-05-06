@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("potencia")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2adf3de5dc9a003b56df20063649a181d8b229ae")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+10ae48b7e4f76d5f01ca733dcd1254ec249f9b1f")]
 [assembly: System.Reflection.AssemblyProductAttribute("potencia")]
 [assembly: System.Reflection.AssemblyTitleAttribute("potencia")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
