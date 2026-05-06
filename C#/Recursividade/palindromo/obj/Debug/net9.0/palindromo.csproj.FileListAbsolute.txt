@@ -1,0 +1,15 @@
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Recursividade\palindromo\obj\Debug\net9.0\palindromo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Recursividade\palindromo\obj\Debug\net9.0\palindromo.AssemblyInfoInputs.cache
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Recursividade\palindromo\obj\Debug\net9.0\palindromo.AssemblyInfo.cs
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Recursividade\palindromo\obj\Debug\net9.0\palindromo.csproj.CoreCompileInputs.cache
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Recursividade\palindromo\obj\Debug\net9.0\palindromo.sourcelink.json
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Recursividade\palindromo\bin\Debug\net9.0\palindromo.exe
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Recursividade\palindromo\bin\Debug\net9.0\palindromo.deps.json
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Recursividade\palindromo\bin\Debug\net9.0\palindromo.runtimeconfig.json
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Recursividade\palindromo\bin\Debug\net9.0\palindromo.dll
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Recursividade\palindromo\bin\Debug\net9.0\palindromo.pdb
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Recursividade\palindromo\obj\Debug\net9.0\palindromo.dll
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Recursividade\palindromo\obj\Debug\net9.0\refint\palindromo.dll
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Recursividade\palindromo\obj\Debug\net9.0\palindromo.pdb
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Recursividade\palindromo\obj\Debug\net9.0\palindromo.genruntimeconfig.cache
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Recursividade\palindromo\obj\Debug\net9.0\ref\palindromo.dll
