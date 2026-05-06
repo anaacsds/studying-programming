@@ -1,0 +1,15 @@
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Recursividade\maior-e-menor\bin\Debug\net9.0\maior-e-menor.exe
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Recursividade\maior-e-menor\bin\Debug\net9.0\maior-e-menor.deps.json
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Recursividade\maior-e-menor\bin\Debug\net9.0\maior-e-menor.runtimeconfig.json
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Recursividade\maior-e-menor\bin\Debug\net9.0\maior-e-menor.dll
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Recursividade\maior-e-menor\bin\Debug\net9.0\maior-e-menor.pdb
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Recursividade\maior-e-menor\obj\Debug\net9.0\maior-e-menor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Recursividade\maior-e-menor\obj\Debug\net9.0\maior-e-menor.AssemblyInfoInputs.cache
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Recursividade\maior-e-menor\obj\Debug\net9.0\maior-e-menor.AssemblyInfo.cs
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Recursividade\maior-e-menor\obj\Debug\net9.0\maior-e-menor.csproj.CoreCompileInputs.cache
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Recursividade\maior-e-menor\obj\Debug\net9.0\maior-e-menor.sourcelink.json
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Recursividade\maior-e-menor\obj\Debug\net9.0\maior-e-menor.dll
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Recursividade\maior-e-menor\obj\Debug\net9.0\refint\maior-e-menor.dll
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Recursividade\maior-e-menor\obj\Debug\net9.0\maior-e-menor.pdb
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Recursividade\maior-e-menor\obj\Debug\net9.0\maior-e-menor.genruntimeconfig.cache
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Recursividade\maior-e-menor\obj\Debug\net9.0\ref\maior-e-menor.dll
