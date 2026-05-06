@@ -1,0 +1,15 @@
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Recursividade\intercalar-vetores\obj\Debug\net9.0\intercalar-vetores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Recursividade\intercalar-vetores\obj\Debug\net9.0\intercalar-vetores.AssemblyInfoInputs.cache
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Recursividade\intercalar-vetores\obj\Debug\net9.0\intercalar-vetores.AssemblyInfo.cs
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Recursividade\intercalar-vetores\obj\Debug\net9.0\intercalar-vetores.csproj.CoreCompileInputs.cache
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Recursividade\intercalar-vetores\obj\Debug\net9.0\intercalar-vetores.sourcelink.json
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Recursividade\intercalar-vetores\bin\Debug\net9.0\intercalar-vetores.exe
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Recursividade\intercalar-vetores\bin\Debug\net9.0\intercalar-vetores.deps.json
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Recursividade\intercalar-vetores\bin\Debug\net9.0\intercalar-vetores.runtimeconfig.json
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Recursividade\intercalar-vetores\bin\Debug\net9.0\intercalar-vetores.dll
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Recursividade\intercalar-vetores\bin\Debug\net9.0\intercalar-vetores.pdb
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Recursividade\intercalar-vetores\obj\Debug\net9.0\intercalar-vetores.dll
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Recursividade\intercalar-vetores\obj\Debug\net9.0\refint\intercalar-vetores.dll
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Recursividade\intercalar-vetores\obj\Debug\net9.0\intercalar-vetores.pdb
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Recursividade\intercalar-vetores\obj\Debug\net9.0\intercalar-vetores.genruntimeconfig.cache
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Recursividade\intercalar-vetores\obj\Debug\net9.0\ref\intercalar-vetores.dll
