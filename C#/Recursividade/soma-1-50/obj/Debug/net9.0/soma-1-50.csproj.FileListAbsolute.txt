@@ -1,0 +1,15 @@
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Recursividade\soma-1-50\bin\Debug\net9.0\soma-1-50.exe
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Recursividade\soma-1-50\bin\Debug\net9.0\soma-1-50.deps.json
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Recursividade\soma-1-50\bin\Debug\net9.0\soma-1-50.runtimeconfig.json
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Recursividade\soma-1-50\bin\Debug\net9.0\soma-1-50.dll
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Recursividade\soma-1-50\bin\Debug\net9.0\soma-1-50.pdb
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Recursividade\soma-1-50\obj\Debug\net9.0\soma-1-50.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Recursividade\soma-1-50\obj\Debug\net9.0\soma-1-50.AssemblyInfoInputs.cache
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Recursividade\soma-1-50\obj\Debug\net9.0\soma-1-50.AssemblyInfo.cs
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Recursividade\soma-1-50\obj\Debug\net9.0\soma-1-50.csproj.CoreCompileInputs.cache
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Recursividade\soma-1-50\obj\Debug\net9.0\soma-1-50.sourcelink.json
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Recursividade\soma-1-50\obj\Debug\net9.0\soma-1-50.dll
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Recursividade\soma-1-50\obj\Debug\net9.0\refint\soma-1-50.dll
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Recursividade\soma-1-50\obj\Debug\net9.0\soma-1-50.pdb
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Recursividade\soma-1-50\obj\Debug\net9.0\soma-1-50.genruntimeconfig.cache
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\Recursividade\soma-1-50\obj\Debug\net9.0\ref\soma-1-50.dll

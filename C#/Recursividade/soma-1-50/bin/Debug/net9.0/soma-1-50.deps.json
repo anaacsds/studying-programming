@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "soma-1-50/1.0.0": {
+        "runtime": {
+          "soma-1-50.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "soma-1-50/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
