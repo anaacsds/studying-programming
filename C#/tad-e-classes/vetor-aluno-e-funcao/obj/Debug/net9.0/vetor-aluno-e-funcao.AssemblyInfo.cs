@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("vetor-aluno-e-funcao")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+11aa253ce690bc94c0d946924ff4b2e03b438b96")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+67eaa70bfb6b37c528e04d24bece8231491ad50e")]
 [assembly: System.Reflection.AssemblyProductAttribute("vetor-aluno-e-funcao")]
 [assembly: System.Reflection.AssemblyTitleAttribute("vetor-aluno-e-funcao")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

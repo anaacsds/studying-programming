@@ -4,11 +4,40 @@
 No Main, crie uma variável do tipo Aluno, preencha com dados de exemplo e imprima todos 
 os campos no console.*/
 
+/* Crie uma struct Data com os campos Dia, Mes e Ano (todos int).
+
+Altere a struct Aluno do exercício anterior para que o campo DataNascimento seja do 
+tipo Data em vez de string.
+
+Preencha e imprima os dados de um aluno, incluindo a data formatada como dd/mm/aaaa.*/
+
+using System.Runtime.CompilerServices;
+
+class Data
+{
+    private int Dia;
+    private int Mes;
+    private int Ano;
+    public int dia
+    {
+        get {return Dia;}
+        set {Dia = value;}
+    }
+        public int mes
+    {
+        get {return Mes;}
+        set {Mes = value;}
+    }
+        public int ano
+    {
+        get {return Ano;}
+        set {Ano = value;}
+    }
+}
 class Aluno
 {
     private string Nome;
     private string Email;
-    private string DataNascimento;
     private string Telefone;
     public string nome
     {
@@ -20,16 +49,12 @@ class Aluno
         get {return Email;}
         set{Email = value;}
     }
-    public string datanasc
-    {
-        get {return DataNascimento;}
-        set{DataNascimento = value;}
-    }
      public string telefone
     {
         get {return Telefone;}
         set{Telefone = value;}
     }
+    public Data data = new Data();
     }
 
 class Program
@@ -42,24 +67,22 @@ class Program
         aluno.nome = Console.ReadLine();
         Console.WriteLine($"Digite o email do aluno: ");
         aluno.email = Console.ReadLine();
-        Console.WriteLine($"Digite a data de nascimento do aluno: ");
-        aluno.datanasc = Console.ReadLine();
         Console.WriteLine($"Digite o telefone do aluno: ");
         aluno.telefone = Console.ReadLine();
+        Console.WriteLine($"Digite o dia de nascimento do aluno: ");
+        aluno.data.dia = int.Parse(Console.ReadLine());
+        Console.WriteLine($"Digite o mês de nascimento do aluno: ");
+        aluno.data.mes = int.Parse(Console.ReadLine());
+        Console.WriteLine($"Digite o ano de nascimento do aluno: ");
+        aluno.data.ano = int.Parse(Console.ReadLine());
 
         Console.Clear();
 
-        Console.WriteLine($"Aluno(a): {aluno.nome} - Email: {aluno.email} - Data de nascimento: {aluno.datanasc} - Telefone {aluno.telefone}");
+        Console.WriteLine($"Aluno(a): {aluno.nome} - Email: {aluno.email} - Telefone {aluno.telefone} - Data de nascimento: {aluno.data.dia} / {aluno.data.mes} / {aluno.data.ano}");
     }
 }
 
 
-/* Crie uma struct Data com os campos Dia, Mes e Ano (todos int).
-
-Altere a struct Aluno do exercício anterior para que o campo DataNascimento seja do 
-tipo Data em vez de string.
-
-Preencha e imprima os dados de um aluno, incluindo a data formatada como dd/mm/aaaa.*/
 
 
 
