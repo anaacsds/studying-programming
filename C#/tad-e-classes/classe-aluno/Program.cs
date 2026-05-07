@@ -31,6 +31,13 @@ class Aluno // declara classe
         get {return telefone;}
         set {telefone = value;}
     }
+
+    // metodo para acessas todos os dados de uma classe
+    public void MostrarDados()
+    {
+        Console.WriteLine(Nome);
+        Console.WriteLine(Telefone);
+    }
 }
 
 class Program
@@ -54,5 +61,8 @@ class Program
         Console.WriteLine($"Data de Nascimento do aluno: {a1.DataNasc}");
         Console.WriteLine($"Telefone do aluno: {a1.Telefone}");
 
+        Console.Clear();
+
+        a1.MostrarDados(); // chama metodo da classe
     }
 }

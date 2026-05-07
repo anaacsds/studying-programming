@@ -1,0 +1,15 @@
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\classe-aluno\bin\Debug\net9.0\classe-aluno.exe
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\classe-aluno\bin\Debug\net9.0\classe-aluno.deps.json
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\classe-aluno\bin\Debug\net9.0\classe-aluno.runtimeconfig.json
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\classe-aluno\bin\Debug\net9.0\classe-aluno.dll
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\classe-aluno\bin\Debug\net9.0\classe-aluno.pdb
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\classe-aluno\obj\Debug\net9.0\classe-aluno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\classe-aluno\obj\Debug\net9.0\classe-aluno.AssemblyInfoInputs.cache
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\classe-aluno\obj\Debug\net9.0\classe-aluno.AssemblyInfo.cs
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\classe-aluno\obj\Debug\net9.0\classe-aluno.csproj.CoreCompileInputs.cache
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\classe-aluno\obj\Debug\net9.0\classe-aluno.sourcelink.json
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\classe-aluno\obj\Debug\net9.0\classe-aluno.dll
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\classe-aluno\obj\Debug\net9.0\refint\classe-aluno.dll
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\classe-aluno\obj\Debug\net9.0\classe-aluno.pdb
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\classe-aluno\obj\Debug\net9.0\classe-aluno.genruntimeconfig.cache
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\classe-aluno\obj\Debug\net9.0\ref\classe-aluno.dll
