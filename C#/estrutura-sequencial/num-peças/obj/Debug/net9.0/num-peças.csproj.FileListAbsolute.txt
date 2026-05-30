@@ -1,0 +1,15 @@
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\estrutura-sequencial\num-peças\bin\Debug\net9.0\num-peças.exe
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\estrutura-sequencial\num-peças\bin\Debug\net9.0\num-peças.deps.json
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\estrutura-sequencial\num-peças\bin\Debug\net9.0\num-peças.runtimeconfig.json
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\estrutura-sequencial\num-peças\bin\Debug\net9.0\num-peças.dll
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\estrutura-sequencial\num-peças\bin\Debug\net9.0\num-peças.pdb
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\estrutura-sequencial\num-peças\obj\Debug\net9.0\num-peças.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\estrutura-sequencial\num-peças\obj\Debug\net9.0\num-peças.AssemblyInfoInputs.cache
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\estrutura-sequencial\num-peças\obj\Debug\net9.0\num-peças.AssemblyInfo.cs
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\estrutura-sequencial\num-peças\obj\Debug\net9.0\num-peças.csproj.CoreCompileInputs.cache
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\estrutura-sequencial\num-peças\obj\Debug\net9.0\num-peças.sourcelink.json
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\estrutura-sequencial\num-peças\obj\Debug\net9.0\num-peças.dll
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\estrutura-sequencial\num-peças\obj\Debug\net9.0\refint\num-peças.dll
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\estrutura-sequencial\num-peças\obj\Debug\net9.0\num-peças.pdb
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\estrutura-sequencial\num-peças\obj\Debug\net9.0\num-peças.genruntimeconfig.cache
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\estrutura-sequencial\num-peças\obj\Debug\net9.0\ref\num-peças.dll
