@@ -1,0 +1,15 @@
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\estrutura-sequencial\raio-circulo\bin\Debug\net9.0\raio-circulo.exe
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\estrutura-sequencial\raio-circulo\bin\Debug\net9.0\raio-circulo.deps.json
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\estrutura-sequencial\raio-circulo\bin\Debug\net9.0\raio-circulo.runtimeconfig.json
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\estrutura-sequencial\raio-circulo\bin\Debug\net9.0\raio-circulo.dll
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\estrutura-sequencial\raio-circulo\bin\Debug\net9.0\raio-circulo.pdb
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\estrutura-sequencial\raio-circulo\obj\Debug\net9.0\raio-circulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\estrutura-sequencial\raio-circulo\obj\Debug\net9.0\raio-circulo.AssemblyInfoInputs.cache
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\estrutura-sequencial\raio-circulo\obj\Debug\net9.0\raio-circulo.AssemblyInfo.cs
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\estrutura-sequencial\raio-circulo\obj\Debug\net9.0\raio-circulo.csproj.CoreCompileInputs.cache
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\estrutura-sequencial\raio-circulo\obj\Debug\net9.0\raio-circulo.sourcelink.json
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\estrutura-sequencial\raio-circulo\obj\Debug\net9.0\raio-circulo.dll
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\estrutura-sequencial\raio-circulo\obj\Debug\net9.0\refint\raio-circulo.dll
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\estrutura-sequencial\raio-circulo\obj\Debug\net9.0\raio-circulo.pdb
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\estrutura-sequencial\raio-circulo\obj\Debug\net9.0\raio-circulo.genruntimeconfig.cache
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\estrutura-sequencial\raio-circulo\obj\Debug\net9.0\ref\raio-circulo.dll
