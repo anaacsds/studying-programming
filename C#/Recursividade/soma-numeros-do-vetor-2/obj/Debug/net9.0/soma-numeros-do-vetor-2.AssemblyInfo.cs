@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("soma-numeros-do-vetor-2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ff3abdfe733ed30528f635e1e4447e3f69d10ae0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ae67efbf71d07068d090e8b012ed42ee22002ddc")]
 [assembly: System.Reflection.AssemblyProductAttribute("soma-numeros-do-vetor-2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("soma-numeros-do-vetor-2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

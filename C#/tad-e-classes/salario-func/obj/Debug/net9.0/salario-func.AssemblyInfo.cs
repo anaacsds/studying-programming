@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("salario-func")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1c64668e07650719d295d3bb0f9d31a352831431")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ae67efbf71d07068d090e8b012ed42ee22002ddc")]
 [assembly: System.Reflection.AssemblyProductAttribute("salario-func")]
 [assembly: System.Reflection.AssemblyTitleAttribute("salario-func")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

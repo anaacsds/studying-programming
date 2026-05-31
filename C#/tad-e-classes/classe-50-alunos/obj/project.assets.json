@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ana Clara\\OneDrive\\MeusProjetos\\studying-programming\\C#\\TAD e Classes\\classe-50-alunos\\classe-50-alunos.csproj",
+      "projectUniqueName": "C:\\Users\\Ana Clara\\OneDrive\\MeusProjetos\\studying-programming\\C#\\tad-e-classes\\classe-50-alunos\\classe-50-alunos.csproj",
       "projectName": "classe-50-alunos",
-      "projectPath": "C:\\Users\\Ana Clara\\OneDrive\\MeusProjetos\\studying-programming\\C#\\TAD e Classes\\classe-50-alunos\\classe-50-alunos.csproj",
+      "projectPath": "C:\\Users\\Ana Clara\\OneDrive\\MeusProjetos\\studying-programming\\C#\\tad-e-classes\\classe-50-alunos\\classe-50-alunos.csproj",
       "packagesPath": "C:\\Users\\Ana Clara\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ana Clara\\OneDrive\\MeusProjetos\\studying-programming\\C#\\TAD e Classes\\classe-50-alunos\\obj\\",
+      "outputPath": "C:\\Users\\Ana Clara\\OneDrive\\MeusProjetos\\studying-programming\\C#\\tad-e-classes\\classe-50-alunos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ana Clara\\AppData\\Roaming\\NuGet\\NuGet.Config"

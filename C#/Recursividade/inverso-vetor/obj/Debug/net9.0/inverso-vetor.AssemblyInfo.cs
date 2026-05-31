@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("inverso-vetor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+78a70d8fdf3cfcf7423528a69a6e0154d51c4e77")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ae67efbf71d07068d090e8b012ed42ee22002ddc")]
 [assembly: System.Reflection.AssemblyProductAttribute("inverso-vetor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("inverso-vetor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

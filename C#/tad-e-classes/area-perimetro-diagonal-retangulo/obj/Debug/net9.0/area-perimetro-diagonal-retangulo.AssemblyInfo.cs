@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("area-perimetro-diagonal-retangulo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+de22d5ada2e118fbab11d82a7b80ba960a7f802d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ae67efbf71d07068d090e8b012ed42ee22002ddc")]
 [assembly: System.Reflection.AssemblyProductAttribute("area-perimetro-diagonal-retangulo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("area-perimetro-diagonal-retangulo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

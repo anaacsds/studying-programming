@@ -82,22 +82,6 @@ class Program
     }
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 /* Usando as structs Aluno e Data do exercício anterior, declare um vetor Aluno[] turma = 
 new Aluno[50].
 

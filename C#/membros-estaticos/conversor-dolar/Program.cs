@@ -3,3 +3,4 @@ uma pessoa em reais. Informar quantos reais a pessoa vai pagar pelos dólares, c
 que a pessoa terá que pagar 6% de IOF sobre o valor em dólar. Criar uma classe ConversorDeMoeda
 para ser responsável pelos cálculos.
 */
+

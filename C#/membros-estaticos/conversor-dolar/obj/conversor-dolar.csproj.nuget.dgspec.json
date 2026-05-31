@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Ana Clara\\OneDrive\\MeusProjetos\\studying-programming\\C#\\membros-estaticos\\conversor-dolar\\conversor-dolar.csproj": {}
+    "C:\\Users\\Ana Clara\\OneDrive\\MeusProjetos\\studying-programming\\C#\\membros-estaticos\\conversor-dolar\\conversor-dolar.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Ana Clara\\OneDrive\\MeusProjetos\\studying-programming\\C#\\membros-estaticos\\conversor-dolar\\conversor-dolar.csproj": {
+    "C:\\Users\\Ana Clara\\OneDrive\\MeusProjetos\\studying-programming\\C#\\membros-estaticos\\conversor-dolar\\conversor-dolar.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Ana Clara\\OneDrive\\MeusProjetos\\studying-programming\\C#\\membros-estaticos\\conversor-dolar\\conversor-dolar.csproj",
+        "projectUniqueName": "C:\\Users\\Ana Clara\\OneDrive\\MeusProjetos\\studying-programming\\C#\\membros-estaticos\\conversor-dolar\\conversor-dolar.csproj",
         "projectName": "conversor-dolar",
-        "projectPath": "c:\\Users\\Ana Clara\\OneDrive\\MeusProjetos\\studying-programming\\C#\\membros-estaticos\\conversor-dolar\\conversor-dolar.csproj",
+        "projectPath": "C:\\Users\\Ana Clara\\OneDrive\\MeusProjetos\\studying-programming\\C#\\membros-estaticos\\conversor-dolar\\conversor-dolar.csproj",
         "packagesPath": "C:\\Users\\Ana Clara\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Ana Clara\\OneDrive\\MeusProjetos\\studying-programming\\C#\\membros-estaticos\\conversor-dolar\\obj\\",
+        "outputPath": "C:\\Users\\Ana Clara\\OneDrive\\MeusProjetos\\studying-programming\\C#\\membros-estaticos\\conversor-dolar\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ana Clara\\AppData\\Roaming\\NuGet\\NuGet.Config"
