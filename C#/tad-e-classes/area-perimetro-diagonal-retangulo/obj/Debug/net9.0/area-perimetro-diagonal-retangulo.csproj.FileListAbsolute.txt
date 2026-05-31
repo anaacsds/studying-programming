@@ -1,0 +1,15 @@
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\area-perimetro-diagonal-retangulo\bin\Debug\net9.0\area-perimetro-diagonal-retangulo.exe
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\area-perimetro-diagonal-retangulo\bin\Debug\net9.0\area-perimetro-diagonal-retangulo.deps.json
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\area-perimetro-diagonal-retangulo\bin\Debug\net9.0\area-perimetro-diagonal-retangulo.runtimeconfig.json
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\area-perimetro-diagonal-retangulo\bin\Debug\net9.0\area-perimetro-diagonal-retangulo.dll
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\area-perimetro-diagonal-retangulo\bin\Debug\net9.0\area-perimetro-diagonal-retangulo.pdb
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\area-perimetro-diagonal-retangulo\obj\Debug\net9.0\area-perimetro-diagonal-retangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\area-perimetro-diagonal-retangulo\obj\Debug\net9.0\area-perimetro-diagonal-retangulo.AssemblyInfoInputs.cache
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\area-perimetro-diagonal-retangulo\obj\Debug\net9.0\area-perimetro-diagonal-retangulo.AssemblyInfo.cs
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\area-perimetro-diagonal-retangulo\obj\Debug\net9.0\area-perimetro-diagonal-retangulo.csproj.CoreCompileInputs.cache
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\area-perimetro-diagonal-retangulo\obj\Debug\net9.0\area-perimetro-diagonal-retangulo.sourcelink.json
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\area-perimetro-diagonal-retangulo\obj\Debug\net9.0\area-perimetro-diagonal-retangulo.dll
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\area-perimetro-diagonal-retangulo\obj\Debug\net9.0\refint\area-perimetro-diagonal-retangulo.dll
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\area-perimetro-diagonal-retangulo\obj\Debug\net9.0\area-perimetro-diagonal-retangulo.pdb
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\area-perimetro-diagonal-retangulo\obj\Debug\net9.0\area-perimetro-diagonal-retangulo.genruntimeconfig.cache
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\area-perimetro-diagonal-retangulo\obj\Debug\net9.0\ref\area-perimetro-diagonal-retangulo.dll
