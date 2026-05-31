@@ -1,0 +1,15 @@
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\nota-aluno\bin\Debug\net9.0\nota-aluno.exe
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\nota-aluno\bin\Debug\net9.0\nota-aluno.deps.json
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\nota-aluno\bin\Debug\net9.0\nota-aluno.runtimeconfig.json
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\nota-aluno\bin\Debug\net9.0\nota-aluno.dll
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\nota-aluno\bin\Debug\net9.0\nota-aluno.pdb
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\nota-aluno\obj\Debug\net9.0\nota-aluno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\nota-aluno\obj\Debug\net9.0\nota-aluno.AssemblyInfoInputs.cache
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\nota-aluno\obj\Debug\net9.0\nota-aluno.AssemblyInfo.cs
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\nota-aluno\obj\Debug\net9.0\nota-aluno.csproj.CoreCompileInputs.cache
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\nota-aluno\obj\Debug\net9.0\nota-aluno.sourcelink.json
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\nota-aluno\obj\Debug\net9.0\nota-aluno.dll
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\nota-aluno\obj\Debug\net9.0\refint\nota-aluno.dll
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\nota-aluno\obj\Debug\net9.0\nota-aluno.pdb
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\nota-aluno\obj\Debug\net9.0\nota-aluno.genruntimeconfig.cache
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\nota-aluno\obj\Debug\net9.0\ref\nota-aluno.dll
