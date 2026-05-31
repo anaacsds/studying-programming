@@ -1,0 +1,15 @@
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\salario-medio\bin\Debug\net9.0\salario-medio.exe
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\salario-medio\bin\Debug\net9.0\salario-medio.deps.json
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\salario-medio\bin\Debug\net9.0\salario-medio.runtimeconfig.json
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\salario-medio\bin\Debug\net9.0\salario-medio.dll
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\salario-medio\bin\Debug\net9.0\salario-medio.pdb
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\salario-medio\obj\Debug\net9.0\salario-medio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\salario-medio\obj\Debug\net9.0\salario-medio.AssemblyInfoInputs.cache
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\salario-medio\obj\Debug\net9.0\salario-medio.AssemblyInfo.cs
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\salario-medio\obj\Debug\net9.0\salario-medio.csproj.CoreCompileInputs.cache
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\salario-medio\obj\Debug\net9.0\salario-medio.sourcelink.json
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\salario-medio\obj\Debug\net9.0\salario-medio.dll
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\salario-medio\obj\Debug\net9.0\refint\salario-medio.dll
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\salario-medio\obj\Debug\net9.0\salario-medio.pdb
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\salario-medio\obj\Debug\net9.0\salario-medio.genruntimeconfig.cache
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\salario-medio\obj\Debug\net9.0\ref\salario-medio.dll
