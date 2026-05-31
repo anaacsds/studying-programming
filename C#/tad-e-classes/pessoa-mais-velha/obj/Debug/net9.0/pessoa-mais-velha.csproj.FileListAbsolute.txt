@@ -1,0 +1,15 @@
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\pessoa-mais-velha\bin\Debug\net9.0\pessoa-mais-velha.exe
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\pessoa-mais-velha\bin\Debug\net9.0\pessoa-mais-velha.deps.json
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\pessoa-mais-velha\bin\Debug\net9.0\pessoa-mais-velha.runtimeconfig.json
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\pessoa-mais-velha\bin\Debug\net9.0\pessoa-mais-velha.dll
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\pessoa-mais-velha\bin\Debug\net9.0\pessoa-mais-velha.pdb
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\pessoa-mais-velha\obj\Debug\net9.0\pessoa-mais-velha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\pessoa-mais-velha\obj\Debug\net9.0\pessoa-mais-velha.AssemblyInfoInputs.cache
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\pessoa-mais-velha\obj\Debug\net9.0\pessoa-mais-velha.AssemblyInfo.cs
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\pessoa-mais-velha\obj\Debug\net9.0\pessoa-mais-velha.csproj.CoreCompileInputs.cache
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\pessoa-mais-velha\obj\Debug\net9.0\pessoa-mais-velha.sourcelink.json
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\pessoa-mais-velha\obj\Debug\net9.0\pessoa-mais-velha.dll
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\pessoa-mais-velha\obj\Debug\net9.0\refint\pessoa-mais-velha.dll
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\pessoa-mais-velha\obj\Debug\net9.0\pessoa-mais-velha.pdb
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\pessoa-mais-velha\obj\Debug\net9.0\pessoa-mais-velha.genruntimeconfig.cache
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\pessoa-mais-velha\obj\Debug\net9.0\ref\pessoa-mais-velha.dll
