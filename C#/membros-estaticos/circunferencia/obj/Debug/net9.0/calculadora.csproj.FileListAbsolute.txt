@@ -1,0 +1,15 @@
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\membros-estaticos\circunferencia\bin\Debug\net9.0\calculadora.exe
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\membros-estaticos\circunferencia\bin\Debug\net9.0\calculadora.deps.json
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\membros-estaticos\circunferencia\bin\Debug\net9.0\calculadora.runtimeconfig.json
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\membros-estaticos\circunferencia\bin\Debug\net9.0\calculadora.dll
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\membros-estaticos\circunferencia\bin\Debug\net9.0\calculadora.pdb
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\membros-estaticos\circunferencia\obj\Debug\net9.0\calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\membros-estaticos\circunferencia\obj\Debug\net9.0\calculadora.AssemblyInfoInputs.cache
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\membros-estaticos\circunferencia\obj\Debug\net9.0\calculadora.AssemblyInfo.cs
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\membros-estaticos\circunferencia\obj\Debug\net9.0\calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\membros-estaticos\circunferencia\obj\Debug\net9.0\calculadora.sourcelink.json
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\membros-estaticos\circunferencia\obj\Debug\net9.0\calculadora.dll
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\membros-estaticos\circunferencia\obj\Debug\net9.0\refint\calculadora.dll
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\membros-estaticos\circunferencia\obj\Debug\net9.0\calculadora.pdb
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\membros-estaticos\circunferencia\obj\Debug\net9.0\calculadora.genruntimeconfig.cache
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\membros-estaticos\circunferencia\obj\Debug\net9.0\ref\calculadora.dll
