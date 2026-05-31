@@ -1,0 +1,15 @@
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\salario-func\bin\Debug\net9.0\salario-func.exe
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\salario-func\bin\Debug\net9.0\salario-func.deps.json
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\salario-func\bin\Debug\net9.0\salario-func.runtimeconfig.json
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\salario-func\bin\Debug\net9.0\salario-func.dll
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\salario-func\bin\Debug\net9.0\salario-func.pdb
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\salario-func\obj\Debug\net9.0\salario-func.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\salario-func\obj\Debug\net9.0\salario-func.AssemblyInfoInputs.cache
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\salario-func\obj\Debug\net9.0\salario-func.AssemblyInfo.cs
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\salario-func\obj\Debug\net9.0\salario-func.csproj.CoreCompileInputs.cache
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\salario-func\obj\Debug\net9.0\salario-func.sourcelink.json
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\salario-func\obj\Debug\net9.0\salario-func.dll
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\salario-func\obj\Debug\net9.0\refint\salario-func.dll
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\salario-func\obj\Debug\net9.0\salario-func.pdb
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\salario-func\obj\Debug\net9.0\salario-func.genruntimeconfig.cache
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\tad-e-classes\salario-func\obj\Debug\net9.0\ref\salario-func.dll
