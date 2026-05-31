@@ -1,0 +1,15 @@
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\membros-estaticos\conversor-dolar\bin\Debug\net9.0\conversor-dolar.exe
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\membros-estaticos\conversor-dolar\bin\Debug\net9.0\conversor-dolar.deps.json
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\membros-estaticos\conversor-dolar\bin\Debug\net9.0\conversor-dolar.runtimeconfig.json
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\membros-estaticos\conversor-dolar\bin\Debug\net9.0\conversor-dolar.dll
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\membros-estaticos\conversor-dolar\bin\Debug\net9.0\conversor-dolar.pdb
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\membros-estaticos\conversor-dolar\obj\Debug\net9.0\conversor-dolar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\membros-estaticos\conversor-dolar\obj\Debug\net9.0\conversor-dolar.AssemblyInfoInputs.cache
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\membros-estaticos\conversor-dolar\obj\Debug\net9.0\conversor-dolar.AssemblyInfo.cs
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\membros-estaticos\conversor-dolar\obj\Debug\net9.0\conversor-dolar.csproj.CoreCompileInputs.cache
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\membros-estaticos\conversor-dolar\obj\Debug\net9.0\conversor-dolar.sourcelink.json
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\membros-estaticos\conversor-dolar\obj\Debug\net9.0\conversor-dolar.dll
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\membros-estaticos\conversor-dolar\obj\Debug\net9.0\refint\conversor-dolar.dll
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\membros-estaticos\conversor-dolar\obj\Debug\net9.0\conversor-dolar.pdb
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\membros-estaticos\conversor-dolar\obj\Debug\net9.0\conversor-dolar.genruntimeconfig.cache
+C:\Users\Ana Clara\OneDrive\MeusProjetos\studying-programming\C#\membros-estaticos\conversor-dolar\obj\Debug\net9.0\ref\conversor-dolar.dll
